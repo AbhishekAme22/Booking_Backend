@@ -5,7 +5,7 @@ To provide a comprehensive demonstration of my work, I have created a video show
 
 Moreover, I have uploaded the assignment code to GitHub for your review. You can find the GitHub repository at the following link: [https://github.com/AbhishekAme22/Booking_Backend]. 
 
-To provide a better understanding of my skills and experience, You can find my resume at[https://drive.google.com/file/d/1ViXRYKoEERb8cLSOIhd8l801BUYuArjV/view?usp=sharing] which highlights my relevant qualifications and achievements. Additionally, you can visit my portfolio website at [Insert Portfolio Website Link Here]
+To provide a better understanding of my skills and experience, You can find my resume at[https://drive.google.com/file/d/1ViXRYKoEERb8cLSOIhd8l801BUYuArjV/view?usp=sharing] which highlights my relevant qualifications and achievements. Additionally, you can visit my portfolio website at [https://portfolio-44782.web.app/]
 
 
 Lastly, I would like to mention that I have been recognized by several companies for my skills and experience. Currently, I have received job offers from PERSIST VENTURES (12LPA), Maybank (5.5LPA), ACCENTURE (4.5LPA), Admybrand (9LPA), Unlearners tech (8LPA), EXALENS, and METAPERCEPT (3LPA). Moreover, I recently had interviews with Capgemini and IBM, which further demonstrate my market value and expertise.
